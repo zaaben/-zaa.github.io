@@ -1,1 +1,10 @@
-
+<html>
+<body>
+<h>?</h>
+<p id="a">??</p>
+<button type="button" onclick="mfunction()">click me</button>
+<script>function mfunction() {
+document.getElementById("a").innerHTML ="!!";}
+</script>
+</body>
+</html>
